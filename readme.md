@@ -29,7 +29,7 @@
 
 I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
