@@ -1,57 +1,141 @@
-<div id="header" align="center">
-  <h1>
-  Hey there!!!, I'm Christopher
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="250"/>
-  
-  
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/christopher-pam/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/krispamb">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<!-- ============================ HEADER ============================ -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,50:7aa2f7,100:bb9af7&height=220&section=header&text=Christopher%20Pam&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=22&animation=fadeIn" alt="Christopher Pam — Software Engineer"/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=I+build+AI-native+products+with+TypeScript;Shipping+developer+tools+that+people+install;Marquill+%E2%80%94+an+AI+LinkedIn+workspace;ChangeNarrator+%E2%80%94+live+on+npm" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<!-- ===== OPEN TO WORK BANNER ===== -->
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-Full--time%20%26%20Contract-2ea043?style=for-the-badge&labelColor=24283b" alt="Open to work"/>
+
+<br/><br/>
+
+<!-- ===== SOCIAL / CONTACT ===== -->
+<a href="mailto:chrystopam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Hire%20me-bb9af7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=24283b" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/christopher-pam/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=24283b" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/krispamb">
+  <img src="https://img.shields.io/badge/X-%40krispamb-1d9bf0?style=for-the-badge&logo=x&logoColor=white&labelColor=24283b" alt="X / Twitter"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=krispamB&style=flat-square&color=7aa2f7&label=Profile+Views" alt="Profile views"/>
+
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=krispamB-FOn&style=flat-square&color=blue" alt=""/>
+<!-- ============================ ABOUT ============================ -->
+## 🧑‍💻 About me
+
+I'm a **Software Engineer** from **Nigeria** 🇳🇬 with **4 years** of experience building production software in **TypeScript** — from API design to the React frontends sitting on top of them.
+
+These days I'm an **AI-native engineer**: I build products and developer tools where large language models do real work, not demos. I've shipped a live AI SaaS (**Marquill**) and published an open-source AI CLI to npm (**ChangeNarrator**).
+
+- 🤖 Building **AI-native products** end-to-end — LLM pipelines, APIs, and the UIs that use them
+- 🛠️ Most at home in **TypeScript / Node.js** on the backend and **React / Next.js** on the front
+- 📦 I ship things people can actually install and use
+- ✍️ Exploring technical content writing, and forever solving problems on LeetCode / Codewars
+- 📫 Reach me at **chrystopam@gmail.com**
+
+<!-- ============================ TECH STACK ============================ -->
+## 🧰 Tech I build with
+
+**Languages &amp; Core**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+**Backend &amp; APIs**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI**
+
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![IBM watsonx](https://img.shields.io/badge/IBM%20watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+**Data &amp; Infra**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Tooling**
+
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<sub>Also experienced with <strong>Java</strong>.</sub>
+
+<!-- ============================ FEATURED PROJECTS ============================ -->
+## 🚀 Featured projects
+
+### 🪶 [Marquill](https://marquill.com) — *Your AI LinkedIn workspace, built to publish and perform*
+
+A live AI SaaS that turns research into ready-to-post LinkedIn content. AI drafts posts from YouTube research, then handles **multi-account management**, **timezone-aware scheduling**, image handling, and analytics that feed back into your next post — one workspace instead of five tools.
+
+[![Live](https://img.shields.io/badge/Live-marquill.com-2ea043?style=flat-square&logo=vercel&logoColor=white)](https://marquill.com)
+[![API](https://img.shields.io/badge/API-linkgenserver-7aa2f7?style=flat-square&logo=nestjs&logoColor=white)](https://github.com/krispamB/linkgenserver)
+[![Client](https://img.shields.io/badge/Client-marquillapp-bb9af7?style=flat-square&logo=next.js&logoColor=white)](https://github.com/krispamB/marquillapp)
+&nbsp;·&nbsp; `TypeScript` · `NestJS` · `Express` · `Next.js` · `MongoDB` · `Redis` · `LLM APIs`
+
+### 📝 [ChangeNarrator](https://www.npmjs.com/package/changenarrator) — *AI changelogs from your PRs, on autopilot*
+
+An open-source AI CLI **published to npm**. It watches GitHub pull requests and automatically writes human-readable changelogs and release notes, publishing them straight to Notion — so your changelog writes itself.
+
+[![npm version](https://img.shields.io/npm/v/changenarrator?style=flat-square&color=CB3837&logo=npm&label=changenarrator)](https://www.npmjs.com/package/changenarrator)
+[![npm downloads](https://img.shields.io/npm/dt/changenarrator?style=flat-square&color=7aa2f7&label=downloads)](https://www.npmjs.com/package/changenarrator)
+[![Repo](https://img.shields.io/badge/Repo-ChangeNarator-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/krispamB/ChangeNarator)
+&nbsp;·&nbsp; `TypeScript` · `Bun` · `IBM watsonx` · `Octokit` · `Notion API`
+
+<!-- ============================ GITHUB STATS ============================ -->
+## 📊 GitHub in numbers
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krispamB&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krispamB&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7" alt="Top languages"/>
+
+<br/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=krispamB&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub streak"/>
 
 </div>
 
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
- </div> -->
+<!-- ============================ CONTRIBUTION SNAKE ============================ -->
+## 🐍 Watch my contributions get eaten
 
----
+<div align="center">
 
-### :man_technologist: About Me :
+<img src="https://raw.githubusercontent.com/krispamB/krispamB/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 
-I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-
-- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on leetcode, code wars, code signal and read tech articles and documentations.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-pam/)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nestjs" alt="Nestjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="YARN" alt="YARN" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
----
+<!-- ============================ FOOTER ============================ -->
+<div align="center">
+
+### Let's build something.
+
+If you're hiring or want to collaborate on AI-native products — my inbox is open.
+
+<a href="mailto:chrystopam@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20hello-chrystopam@gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=24283b" alt="Email"/>
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:24283b&height=120&section=footer" alt=""/>
+
+</div>
