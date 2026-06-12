@@ -64,7 +64,9 @@ These days I'm an **AI-native engineer**: I build products and developer tools w
 **AI**
 
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![IBM watsonx](https://img.shields.io/badge/IBM%20watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Data &amp; Infra**
 
@@ -100,7 +102,7 @@ An open-source AI CLI **published to npm**. It watches GitHub pull requests and 
 [![npm version](https://img.shields.io/npm/v/changenarrator?style=flat-square&color=CB3837&logo=npm&label=changenarrator)](https://www.npmjs.com/package/changenarrator)
 [![npm downloads](https://img.shields.io/npm/dt/changenarrator?style=flat-square&color=7aa2f7&label=downloads)](https://www.npmjs.com/package/changenarrator)
 [![Repo](https://img.shields.io/badge/Repo-ChangeNarator-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/krispamB/ChangeNarator)
-&nbsp;·&nbsp; `TypeScript` · `Bun` · `IBM watsonx` · `Octokit` · `Notion API`
+&nbsp;·&nbsp; `TypeScript` · `Bun` · `Anthropic` · `OpenAI` · `Gemini` · `Octokit` · `Notion API`
 
 <!-- ============================ GITHUB STATS ============================ -->
 ## 📊 GitHub in numbers
