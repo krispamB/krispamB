@@ -40,6 +40,7 @@ These days I'm an **AI-native engineer**: I build products and developer tools w
 
 - 🤖 Building **AI-native products** end-to-end — LLM pipelines, APIs, and the UIs that use them
 - 🛠️ Most at home in **TypeScript / Node.js** on the backend and **React / Next.js** on the front
+- 🐍 Also building backend services in **Python / Flask** at work
 - 📦 I ship things people can actually install and use
 - ✍️ Exploring technical content writing, and forever solving problems on LeetCode / Codewars
 - 📫 Reach me at **chrystopam@gmail.com**
@@ -51,6 +52,7 @@ These days I'm an **AI-native engineer**: I build products and developer tools w
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -59,6 +61,7 @@ These days I'm an **AI-native engineer**: I build products and developer tools w
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **AI**
@@ -81,7 +84,7 @@ These days I'm an **AI-native engineer**: I build products and developer tools w
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<sub>Also experienced with <strong>Java</strong>.</sub>
+<sub>Also experienced with <strong>Java</strong>. My Python / Flask work lives on my company's GitLab, so it won't show up in the GitHub stats below.</sub>
 
 <!-- ============================ FEATURED PROJECTS ============================ -->
 ## 🚀 Featured projects
@@ -91,8 +94,7 @@ These days I'm an **AI-native engineer**: I build products and developer tools w
 A live AI SaaS that turns research into ready-to-post LinkedIn content. AI drafts posts from YouTube research, then handles **multi-account management**, **timezone-aware scheduling**, image handling, and analytics that feed back into your next post — one workspace instead of five tools.
 
 [![Live](https://img.shields.io/badge/Live-marquill.com-2ea043?style=flat-square&logo=vercel&logoColor=white)](https://marquill.com)
-[![API](https://img.shields.io/badge/API-linkgenserver-7aa2f7?style=flat-square&logo=nestjs&logoColor=white)](https://github.com/krispamB/linkgenserver)
-[![Client](https://img.shields.io/badge/Client-marquillapp-bb9af7?style=flat-square&logo=next.js&logoColor=white)](https://github.com/krispamB/marquillapp)
+[![Repo](https://img.shields.io/badge/Monorepo-marquillapp-bb9af7?style=flat-square&logo=github&logoColor=white)](https://github.com/krispamB/marquillapp)
 &nbsp;·&nbsp; `TypeScript` · `NestJS` · `Express` · `Next.js` · `MongoDB` · `Redis` · `LLM APIs`
 
 ### 📝 [ChangeNarrator](https://www.npmjs.com/package/changenarrator) — *AI changelogs from your PRs, on autopilot*
